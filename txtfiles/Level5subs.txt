@@ -1,0 +1,8 @@
+Level 5 subjects:
+
+(CS8) Concepts and Technologies of AI
+(CS9) Object-Oriented Design and Programming 
+(CS10) Numerical Methods and Concurrency 
+(CS11) Cloud System Programming 
+(CS12) Human Computer Interaction 
+(CS13) Collaborative Development 

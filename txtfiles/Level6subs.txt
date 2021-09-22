@@ -1,0 +1,7 @@
+Level 6 subjects:
+
+(CS14) Project and Professionalism 
+(CS15) Big Data 
+(CS16) AI and Machine Learning 
+(CS17-O) High Performance Computing 
+(CS18-O) Complex System 

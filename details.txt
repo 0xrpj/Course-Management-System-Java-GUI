@@ -1,0 +1,24 @@
+Level 4 subjects:
+
+Compulsory:
+Web Development, Personal Development 
+Discrete Mathematics, Introduction to Programming
+Computer Architecture, Data Structures and Algorithms
+Introduction to Databases, Python Programming
+
+Optional: None
+
+Level 5 subjects:
+Compulsory:
+Concepts and Technologies of AI, Object-Oriented Design and Programming
+Numerical Methods and Concurrency, Distributed and Cloud System Programming
+Human Computer Interaction, Collaborative Development
+
+Optional: None
+
+Level 6 subjects:
+Compulsory:
+Project and Professionalism, Big Data
+Artificial Intelligence and Machine Learning
+
+Optional: High Performance Computing, Complex System

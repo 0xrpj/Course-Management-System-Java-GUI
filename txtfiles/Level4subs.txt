@@ -1,0 +1,9 @@
+Level 4 subjects:
+
+(CS1) Web Development 
+(CS2) Personal Development 
+(CS3) Discrete Mathematics 
+(CS4) Introduction to Programming 
+(CS5) Computer Architecture 
+(CS6) Data Structures and Algorithms 
+(CS7) Introduction to Databases 
